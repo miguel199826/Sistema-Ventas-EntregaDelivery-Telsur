@@ -1,0 +1,27 @@
+
+#formCompra{
+    margin:20px 0px;
+}
+#tableCompra{
+    margin:20px 0px;
+}
+#compra{
+    margin:20px 20px;
+}
+.jumbotrom{
+    color:#FFFFFF;
+    background: #FF0000 ;
+    background-size:cover;
+    overflow: hidden;
+}
+div.w-33 {
+    
+}
+  
+div.center {
+    text-align: center;
+}
+div .center button {
+    margin:20px 20px;
+    width:50%;
+}

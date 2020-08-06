@@ -1,0 +1,13 @@
+.jumbotrom{
+    color:#FFFFFF;
+    background: #FF0000 ;
+    background-size:cover;
+    overflow: hidden;
+}
+.container .row{ 
+    margin:20px 0px;
+}
+#datosTicket div{
+    margin:10px;
+
+}

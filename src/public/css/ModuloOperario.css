@@ -1,0 +1,9 @@
+.jumbotrom{
+    color:#FFFFFF;
+    background: #FF0000 ;
+    background-size:cover;
+    overflow: hidden;
+}
+.row{
+    margin: 20px 0px;
+}

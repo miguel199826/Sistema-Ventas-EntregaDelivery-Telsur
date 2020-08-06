@@ -1,0 +1,16 @@
+.jumbotrom{
+    color:#FFFFFF;
+    background: #FF0000 ;
+    background-size:cover;
+    overflow: hidden;
+}
+.container  .row{
+    margin: 20px;
+}
+img{
+    margin:0px  15px;
+}
+
+button{
+    margin:0px  15px;
+}

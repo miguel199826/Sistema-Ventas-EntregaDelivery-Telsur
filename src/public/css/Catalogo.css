@@ -1,0 +1,71 @@
+.jumbotrom{
+    color:#FFFFFF;
+    background: #FF0000 ;
+    background-size:cover;
+    overflow: hidden;
+}
+
+.contenedor{
+    margin: 0px 0px;
+}
+.card{
+    width:400px;
+    height:500px;
+}
+.card-img-top{
+    width:250px;
+    height:300px;
+    margin-left:75px;
+}
+.card-text{
+    margin:10px;
+    text-align: center;
+}
+.row{
+    margin:50px;
+}
+/*.d-block{
+    width:600x;
+    height:450px;
+}*/
+#carouselBanner .carousel-item img{
+    width:600x;
+    height:450px;
+}
+
+.objetivos{
+    margin:20px 0px;
+}
+#carouselBanner2 .carousel-item img{
+    width:200x;
+    height:600px;
+}
+
+#botonComprar{
+    width:500px;
+    height:100px;
+    margin:20px;
+}
+#botonComprar a{
+    width:500px;
+    height:40px;
+}
+
+
+.alignleft{ 
+    float: left; 
+    width:50%; 
+    text-align:left; 
+} 
+.aliright{
+    float: left; 
+    width:50%; 
+    text-align:right; 
+}
+
+div .center button {
+    margin:20px 20px;
+    width:50%;
+}
+
+
